@@ -123,7 +123,7 @@ pip install Flask mlflow
 To run the code, execute the following command:
 
 ```bash
-python your_script_name.py
+python mywebapp.py
 ```
 
 ### Script Structure
