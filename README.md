@@ -171,6 +171,13 @@ To use the MLflow UI to view and manage the model you trained and stored previou
 
    ![image](https://github.com/manas86/mlflow-hf-gpt2/assets/30902765/42999b64-f8eb-4fbd-bdfa-c0d7507ab97a)
 
+   ![image](https://github.com/manas86/mlflow-hf-gpt2/assets/30902765/0aa347cf-8e4a-4b45-b927-2650f59bde3c)
+
+  ![image](https://github.com/manas86/mlflow-hf-gpt2/assets/30902765/83284927-ddb6-4960-b142-9cfc3c9a42e4)
+
+   ![image](https://github.com/manas86/mlflow-hf-gpt2/assets/30902765/d48b8646-96e9-4f41-a476-5b9b48d82098)
+   
+
 
 Using the MLflow UI, you can easily monitor and manage your experiments, view run details, and access the artifacts, including the saved GPT-2 model. This provides a convenient way to track and share your machine learning experiments with your team or collaborators.
 
